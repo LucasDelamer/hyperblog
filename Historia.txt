@@ -1,5 +1,6 @@
 Esta es mi hitoria
 
-Me llamo Lucas tengo 40 y estoy corrigiendo 
+Me llamo Lucas tengo 40 y aora voy a seguir escribiendo 
 para probar git.
+Soy un poco alto
 Saludos!
